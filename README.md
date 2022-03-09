@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, mostly in server-side.
 - 🌱 I’m currently learning fundaments of the Web development (HTML5, CSS3, JS).
 - 💞️ I’m looking to collaborate on companies that want new minds. I'm a creative person, but also disciplined.
-- 📫 How to reach me @gabbiru_ on Instagram, or baiagabriel1@gmail.com
+- 📫 How to reach me @gabbiru_  //  baiagabriel1@gmail.com // https://www.linkedin.com/in/gabriel-lima-583691231
 
 <!---
 GabireuLima/GabireuLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
