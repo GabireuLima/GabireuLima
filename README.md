@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabireuLima (Gabriel Lima). I'm a 24 years old student with 4 cats and a lot of energy to learn.
+- 👋 Hi, I’m (Gabriel Lima). I'm a 24 years old student with 4 cats and a lot of energy to learn.
 - 👀 I’m interested in Web development, mostly in server-side but i'm now a Full-stack student by #DEVinHouse.
 - 🌱 I’m currently learning fundaments of the Web development (HTML5, CSS3, JS, Bootstrap etc.).
 - 💞️ I’m looking to collaborate on companies that want new minds. I'm a creative guy, but also disciplined.
