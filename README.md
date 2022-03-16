@@ -1,8 +1,7 @@
-- 👋 Hi, I’m (Gabriel Lima). I'm a 24 years old student with 4 cats and a lot of energy to learn.
-- 👀 I’m interested in Web development, mostly in server-side but i'm now a Full-stack student by #DEVinHouse.
-- 🌱 I’m currently learning fundaments of the Web development (HTML5, CSS3, JS, Bootstrap etc.).
-- 💞️ I’m looking to collaborate on companies that want new minds. I'm a creative guy, but also disciplined.
-- 📫 How to reach me on instagram: @gabbiru_  // email:  baiagabriel1@gmail.com // or linkedin:  https://www.linkedin.com/in/gabriel-lima-583691231
+  Olá, bem vindo ! :v:
+ 
+  Meu nome é Gabriel Lima, tenho 24 anos e sou estudante do DEVinHouse de Desenvolvimento Full-stack buscando aprender sempre ~e que vive se divertindo no mundão Tech~.
+  Caso se interesse, pode entrar em contato comigo através das minhas redes sociais, será um imenso prazer ! :D 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-583691231)](https://www.linkedin.com/in/gabriel-lima-583691231)
 
 <!---
