@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning fundaments of the Web development (HTML5, CSS3, JS, Bootstrap etc.).
 - 💞️ I’m looking to collaborate on companies that want new minds. I'm a creative guy, but also disciplined.
 - 📫 How to reach me on instagram: @gabbiru_  // email:  baiagabriel1@gmail.com // or linkedin:  https://www.linkedin.com/in/gabriel-lima-583691231
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-583691231)](https://www.linkedin.com/in/gabriel-lima-583691231)
 
 <!---
 GabireuLima/GabireuLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
